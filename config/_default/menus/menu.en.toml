@@ -1,0 +1,60 @@
+[[main]]
+  name = "Home"
+  url = ""
+  weight = -110
+
+[[main]]
+  name = "Archives"
+  url = "post/rich-content/"
+  weight = -109
+
+# Submenus are done this way: parent -> identifier
+[[main]]
+  name = "Channels"
+  identifier = "Channels"
+  weight = -108
+[[main]]
+  parent = "Channels"
+  name = "YouTube"
+  url = "https://www.youtube.com/channel/UCFBGLpP3GWHlD9fEgVIwnXA/"
+[[main]]
+  parent = "Channels"
+  name = "Facebook"
+  url = "https://www.facebook.com/liveittv"
+
+[[main]]
+  name = "About"
+  url = "about/"
+  weight = -107
+
+# social menu links
+
+[[social]]
+  name = "facebook"
+  type = "social"
+  weight = 1
+  url = "https://www.facebook.com/liveittv"
+[[social]]
+  name = "youtube"
+  weight = 3
+  url = "https://www.youtube.com/channel/UCFBGLpP3GWHlD9fEgVIwnXA/"
+[[social]]
+  name = "twitter"
+  weight = 2
+  url = "https://twitter.com/ittv"
+[[social]]
+  name = "rss"
+  weight = 4
+  url = "index.xml"
+
+# other supported social links
+# name = "youtube"
+# url = "https://www.youtube.com/#"
+# name = "facebook"
+# url = "https://facebook.com/#"
+# name = "instagram"
+# url = "https://instagram.com/#"
+# name = "stackoverflow"
+# url = "https://stackoverflow.com/#"
+# name = "gitlab"
+# url = "https://gitlab.com/#"

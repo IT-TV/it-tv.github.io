@@ -1,0 +1,23 @@
+# set `baseurl` to your root domain
+# if you set it to "/" share icons won't work properly on production
+baseurl = "https://it-tv.github.io/"  # Include trailing slash
+title = "IT TV"
+author = "IT TV"
+copyright = "Copyright © 2008–2018, IT TV; all rights reserved."
+# canonifyurls = true
+paginate = 10
+theme = "hugo-clarity"
+
+disqusShortname = ""
+
+DefaultContentLanguage = "en"
+# [languages]
+# config/_default/languages.toml
+
+# [menus]
+# config/_default/menus/menu.xx.toml
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"

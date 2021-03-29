@@ -1,54 +1,9 @@
-# set `baseurl` to your root domain
-# if you set it to "/" share icons won't work properly on production
-baseurl = "https://it-tv.github.io/"  # Include trailing slash
-title = "IT TV"
-author = "IT TV"
-copyright = "Copyright © 2008–2018, IT TV; all rights reserved."
-# canonifyurls = true
-paginate = 10
-theme = "hugo-clarity"
-
-disqusShortname = ""
-
-DefaultContentLanguage = "en"
-# [languages]
-# config/_default/languages.toml
-
-# [menus]
-# config/_default/menus/menu.xx.toml
-
-[taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
-
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      hardWraps = false
-      unsafe = true # change to false to disable inclusion of rawHTML and math functions
-      xhtml = false
-    [markup.goldmark.extensions]
-      typographer = false
-  [markup.highlight]
-    codeFences = true
-    guessSyntax = true
-    hl_Lines = "--"
-    lineNoStart = 1
-    lineNos = true # always set to true # else line numbers won't show at all! even when you toggle them on in the UI
-    lineNumbersInTable = false # toggling this on (i.e to true) or deleting this line will break the code blocks functionality. Will
-    noClasses = false
-    # style = "monokai"
-    tabWidth = 2
-
-[params]
 author = "IT TV"
 twitter = "@ittv"
 largeTwitterCard = false # set to true if you want to show a large twitter card image. The default is a small twitter card image
-introDescription = "পরিবেশ ও বন ধ্বংসকারীদের সকল কর্মকান্ড প্রত্যন্ত অঞ্চল থেকে লাইভ প্রচারের জন্যে আইটি টিভি "
+introDescription = " পরিবেশ ও বন ধ্বংসকারীদের সকল কর্মকান্ড প্রত্যন্ত অঞ্চল থেকে লাইভ প্রচারের জন্যে আইটি টিভি "
 introURL = "about/" # set the url for the 'read more' button below the introDescription, or set to false to not show the button
-description = "সবুজ প্রকৃতি সংরক্ষণ, বন জমি দখল,চর  দখলকারী, সবুজ বনায়ন ধ্বংসকারী পাহাড় কাটা প্রতিরোধের জন্য  ও পরিবেশ ধ্বংশকারী যে কোন গুরুত্বপূর্ণ বিষয় নিয়ে বাংলাদেশের প্রত্যন্ত অঞ্চলে থেকে  লাইভ সম্প্রচারের লক্ষ্যে আমাদের আই টি টিভি।" # set your site's description here. will be use for home page content meta tags (seo). Alternatively set this description in your homepage content file i.e content/_index.md. Whatever is set in the latter will take precedence
+description = "" # set your site's description here. will be use for home page content meta tags (seo). Alternatively set this description in your homepage content file i.e content/_index.md. Whatever is set in the latter will take precedence
 
 # showShare = false # Uncomment to not show share buttons on each post. Also available in each post's front matter.
 
@@ -77,7 +32,7 @@ enableMathNotation = false
 mainSections = ["post"] # see config details here https://gohugo.io/functions/where/#mainsections
 
 # center logo on navbar
-centerLogo = true # Set to "true" for centering or "false" for left aligned.
+centerLogo = false # Set to "true" for centering or "false" for left aligned.
 
 logo = "logos/logo.png"
 
@@ -108,7 +63,7 @@ languageMenuName = "🌐"
 # titleSeparator = "|"
 
 # Enable or disable comments globally. Default to true.
-# comments = false
+comments = true
 
 # Maximum number of recent posts.
 # numberOfRecentPosts = 8
@@ -122,4 +77,9 @@ languageMenuName = "🌐"
 
 # The year when ths website was created, this value is used in the copyright
 # notice of the footer.
- since = 2021
+since = 2016
+[plausible_analytics]
+enable = false # to enable plausible analytics set to true.
+websiteDomain = "it-tv.github.io" # domain name of your website, most cases same as your base url
+# plausibleDomain = "plausible.io" # default is set to plausible.io, only required if plausible is selfhosted
+# scritpName = "plausible" # default is set to plausible, only required if using a custome name for script

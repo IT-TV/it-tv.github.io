@@ -1,118 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>live on IT TV</title><link>https://it-tv.github.io/tags/live/</link><description>Recent content in live on IT TV</description><generator>Hugo -- gohugo.io</generator><copyright>Copyright © 2008–2018, IT TV; all rights reserved.</copyright><lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://it-tv.github.io/tags/live/index.xml" rel="self" type="application/rss+xml"/><item><title>Live Channel</title><link>https://it-tv.github.io/post/live-channel/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://it-tv.github.io/post/live-channel/</guid><description>
-&lt;p>সবুজ প্রকৃতি সংরক্ষণ, বন জমি দখল,চর দখলকারী, সবুজ বনায়ন ধ্বংসকারী পাহাড় কাটা প্রতিরোধের জন্য ও পরিবেশ ধ্বংশকারী যে কোন গুরুত্বপূর্ণ বিষয় নিয়ে বাংলাদেশের প্রত্যন্ত অঞ্চলে থেকে লাইভ সম্প্রচারের লক্ষ্যে আমাদের আই টি টিভি।&lt;/p>
-&lt;p>বাংলাদেশের প্রত্যন্ত ও পাহাড়ী অঞ্চল থেকে সরাসরি লাইভ আপডেট পেতে সাবস্ক্রাইব করুন&lt;/p>
-&lt;h2 id="facebook-page">Facebook Page&lt;/h2>
-&lt;p>Follow &lt;a href="https://www.facebook.com/liveittv">https://www.facebook.com/liveittv&lt;/a>&lt;/p>
-&lt;h2 id="youtube-channel">Youtube Channel&lt;/h2>
-&lt;p>Follow &lt;a href="https://www.youtube.com/channel/UCFBGLpP3GWHlD9fEgVIwnXA/about">https://www.youtube.com/channel/UCFBGLpP3GWHlD9fEgVIwnXA/about&lt;/a>&lt;/p>
-&lt;h2 id="our-activity">Our Activity&lt;/h2>
-&lt;p>List of our aimed activities.&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Act&lt;/th>
-&lt;th>Aim&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Live&lt;/td>
-&lt;td>Save Mother Nature&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Aware&lt;/td>
-&lt;td>Create Awareness&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h4 id="inline-markdown-within-tables">Inline Markdown within tables&lt;/h4>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Facebook&lt;/th>
-&lt;th>Youtube&lt;/th>
-&lt;th>Studio&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>&lt;em>italics&lt;/em>&lt;/td>
-&lt;td>&lt;strong>bold&lt;/strong>&lt;/td>
-&lt;td>&lt;code>code&lt;/code>&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;h2 id="code-blocks">Code Blocks&lt;/h2>
-&lt;h4 id="code-block-with-backticks">Code block with backticks&lt;/h4>
-&lt;div class="highlight">&lt;pre class="chroma">&lt;code class="language-html" data-lang="html">&lt;span class="ln"> 1&lt;/span>&lt;span class="cp">&amp;lt;!doctype html&amp;gt;&lt;/span>
-&lt;span class="ln"> 2&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">html&lt;/span> &lt;span class="na">lang&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;en&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
-&lt;span class="ln"> 3&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">head&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
-&lt;span class="ln"> 4&lt;/span> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">meta&lt;/span> &lt;span class="na">charset&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;utf-8&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
-&lt;span class="ln"> 5&lt;/span> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">title&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>Example HTML5 Document&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">title&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
-&lt;span class="ln"> 6&lt;/span>&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">head&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
-&lt;span class="ln"> 7&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">body&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
-&lt;span class="ln"> 8&lt;/span> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>Test&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
-&lt;span class="ln"> 9&lt;/span>&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">body&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
-&lt;span class="ln">10&lt;/span>&lt;span class="c">&amp;lt;!-- this line is extraneous 2Error from server (Forbidden): deployments.apps is forbidden: User &amp;#34;chiptest&amp;#34; cannot create resource &amp;#34;deployments&amp;#34; in API group &amp;#34;apps&amp;#34; in the namespace &amp;#34;default&amp;#34; --&amp;gt;&lt;/span>
-&lt;span class="ln">11&lt;/span>&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">html&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
-&lt;/code>&lt;/pre>&lt;/div>&lt;h4 id="code-block-indented-with-four-spaces">Code block indented with four spaces&lt;/h4>
-&lt;pre>&lt;code>&amp;lt;!doctype html&amp;gt;
-&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
-&amp;lt;head&amp;gt;
-&amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
-&amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
-&amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;
-&lt;/code>&lt;/pre>
-&lt;h4 id="code-block-with-hugos-internal-highlight-shortcode">Code block with Hugo's internal highlight shortcode&lt;/h4>
-&lt;div class="highlight">&lt;pre class="chroma">&lt;code class="language-html" data-lang="html">&lt;span class="ln"> 1&lt;/span>&lt;span class="cp">&amp;lt;!doctype html&amp;gt;&lt;/span>
-&lt;span class="ln"> 2&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">html&lt;/span> &lt;span class="na">lang&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;en&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
-&lt;span class="ln"> 3&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">head&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
-&lt;span class="ln"> 4&lt;/span> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">meta&lt;/span> &lt;span class="na">charset&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;utf-8&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
-&lt;span class="ln"> 5&lt;/span> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">title&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>Example HTML5 Document&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">title&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
-&lt;span class="ln"> 6&lt;/span>&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">head&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
-&lt;span class="ln"> 7&lt;/span>&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">body&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
-&lt;span class="ln"> 8&lt;/span> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>Test&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
-&lt;span class="ln"> 9&lt;/span>&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">body&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
-&lt;span class="ln">10&lt;/span>&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">html&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
-&lt;h2 id="list-types">List Types&lt;/h2>
-&lt;h4 id="ordered-list">Ordered List&lt;/h4>
-&lt;ol>
-&lt;li>First item&lt;/li>
-&lt;li>Second item&lt;/li>
-&lt;li>Third item&lt;/li>
-&lt;/ol>
-&lt;h4 id="unordered-list">Unordered List&lt;/h4>
-&lt;ul>
-&lt;li>List item&lt;/li>
-&lt;li>Another item&lt;/li>
-&lt;li>And another item&lt;/li>
-&lt;/ul>
-&lt;h4 id="nested-list">Nested list&lt;/h4>
-&lt;ul>
-&lt;li>Fruit
-&lt;ul>
-&lt;li>Apple&lt;/li>
-&lt;li>Orange&lt;/li>
-&lt;li>Banana&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Dairy
-&lt;ul>
-&lt;li>Milk&lt;/li>
-&lt;li>Cheese&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="other-elements--abbr-sub-sup-kbd-mark">Other Elements — abbr, sub, sup, kbd, mark&lt;/h2>
-&lt;p>&lt;abbr title="Graphics Interchange Format">GIF&lt;/abbr> is a bitmap image format.&lt;/p>
-&lt;p>H&lt;sub>2&lt;/sub>O&lt;/p>
-&lt;p>X&lt;sup>n&lt;/sup> + Y&lt;sup>n&lt;/sup> = Z&lt;sup>n&lt;/sup>&lt;/p>
-&lt;p>Press &lt;kbd>&lt;kbd>CTRL&lt;/kbd>+&lt;kbd>ALT&lt;/kbd>+&lt;kbd>Delete&lt;/kbd>&lt;/kbd> to end the session.&lt;/p>
-&lt;p>Most &lt;mark>salamanders&lt;/mark> are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p></description></item><item><title>Our Channels</title><link>https://it-tv.github.io/post/our-channels/</link><pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><guid>https://it-tv.github.io/post/our-channels/</guid><description>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>live on IT TV</title><link>https://it-tv.github.io/tags/live/</link><description>Recent content in live on IT TV</description><generator>Hugo -- gohugo.io</generator><copyright>Copyright © 2008–2018, IT TV; all rights reserved.</copyright><lastBuildDate>Sat, 03 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://it-tv.github.io/tags/live/index.xml" rel="self" type="application/rss+xml"/><item><title>Live Report</title><link>https://it-tv.github.io/post/live-report/</link><pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate><guid>https://it-tv.github.io/post/live-report/</guid><description>
+&lt;p>চকরিয়ায় সাহারবিলের আলোচিত নবী হোসেনের অত্যাচারের বিরুদ্ধে সাংবাদিকদের সংবাদ পরিবেশন করার জেরে নিরীহ লোকের বসতবাড়ি ও দোকানে হামলা এবং ভাংচুরের ঘটনা ঘটেছে।
+পূর্ব বড়ভেওলা ১নং ওয়ার্ড় চৌঁয়ারফাড়ি নয়াপাড়া গ্রামের নাজেম উদ্দিনের স্ত্রী পিয়াসা বেগম জানান, ২ এপ্রিল সন্ধা ৭ টার সময় নবি হোসেন তিনটি মোটরসাইকেল করে ৮/৯ জন লোক নিয়ে তাদের বাড়িতে এসে হামলা, মারধর ও ভাংচুর করে এবং হুমকি প্রধান করে। গত ৩০ মার্চ নাজেম উদ্দিনের বাড়ি সংলগ্ন তাদের চায়ের দোকানে বসে কোরালখালী গ্রামের মোঃ আলমগীর সাংবাদিকদের বক্তব্য দেওয়ায় ক্ষিপ্ত হয়ে নবী হোসেন তাদের উপর এই হামলা চালিয়েছেন বলে জানান পিয়াসা বেগম ও তার স্বামী নাজেম উদ্দিন। তিনি আরও বলেন, নবী হোসেন অকথ্য ভাষায় গালিগালাজ ও মারধর করে পিয়াসা বেগমের কাপড়ছোপড় ছেড়ে পেলে বলেও অভিযোগ করেন।
+সাহার বিল ইউনিয়নের আলোচিত নবী হোসেনের অত্যাচার থেকে রেহাই পাওয়ার জন্য প্রশাসন, আইনসৃংখলা বাহিনী ও মাননীয় প্রধানমন্ত্রীর হস্তক্ষেপ কামনা করেছেন ভুক্তভুগী পরিবার।&lt;/p>
+&lt;h2 id="live-reporting-youtube">Live Reporting Youtube&lt;/h2>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/eRKJrV6teT8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;br></description></item><item><title>দুদকের অভিযান live</title><link>https://it-tv.github.io/post/chakaria-live/</link><pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate><guid>https://it-tv.github.io/post/chakaria-live/</guid><description>
+&lt;p>চকরিয়া সাব রেজিস্ট্রি অফিসে দুদকের অভিযান,নগদ কিছু টাকা পেয়েছেন । চকরিয়া সাব রেজিষ্টার অফিসে দূর্নীতি দমন কমিশন এর অভিজান নিয়ে কিছুই খোলাসা করছেননা কর্মকর্তারা,আচরণ রহস্যজনক। উনাদের উপস্থিতিতেই প্রধান অফিস সহকারী শ্যামল বড়ুয়ার পলায়ন।&lt;/p>
+&lt;hr>
+&lt;h2 id="দদকর-অভযন-live-youtube">দুদকের অভিযান live Youtube&lt;/h2>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Br4AV5wNkoY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;br>
+&lt;hr>
+&lt;h2 id="previous-live">Previous Live&lt;/h2>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Br4AV5wNkoY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;br></description></item><item><title>Our Channels</title><link>https://it-tv.github.io/post/our-channels/</link><pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><guid>https://it-tv.github.io/post/our-channels/</guid><description>
 &lt;p>Hugo ships with several &lt;a href="https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes">Built-in Shortcodes&lt;/a> for rich content, along with a &lt;a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config&lt;/a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p>
 &lt;hr>
 &lt;h2 id="instagram-simple-shortcode">Instagram Simple Shortcode&lt;/h2>

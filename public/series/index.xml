@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on IT TV</title>
-    <link>https://it-tv.github.io/series/</link>
+    <link>https://ittv.com.bd/series/</link>
     <description>Recent content in Series on IT TV</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Copyright © 2008–2018, IT TV; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://it-tv.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://ittv.com.bd/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
